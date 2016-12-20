@@ -1,0 +1,58 @@
+C:\Users\36\Desktop\player\player\obj\x86\Debug\player.exe
+C:\Users\36\Desktop\player\player\obj\x86\Debug\player.pdb
+C:\Users\01\Desktop\player\player\obj\x86\Debug\player.exe
+C:\Users\01\Desktop\player\player\obj\x86\Debug\player.pdb
+C:\Users\01\Desktop\player\player\obj\x86\Debug\player.csprojResolveAssemblyReference.cache
+C:\Users\01\Desktop\player\player\obj\x86\Debug\player.Form1.resources
+C:\Users\01\Desktop\player\player\obj\x86\Debug\player.Form2.resources
+C:\Users\01\Desktop\player\player\obj\x86\Debug\player.csproj.GenerateResource.Cache
+C:\Users\01\Desktop\player\player\obj\x86\Debug\player.Properties.Resources.resources
+C:\Users\01\Desktop\player\player\bin\Debug\player.exe
+C:\Users\01\Desktop\player\player\bin\Debug\player.pdb
+C:\Users\02\Desktop\player\player\obj\x86\Debug\player.exe
+C:\Users\02\Desktop\player\player\obj\x86\Debug\player.pdb
+C:\Users\02\Desktop\player\player\bin\Debug\player.exe
+C:\Users\02\Desktop\player\player\bin\Debug\player.pdb
+C:\Users\02\Desktop\player\player\obj\x86\Debug\player.csprojResolveAssemblyReference.cache
+C:\Users\02\Desktop\player\player\obj\x86\Debug\player.Form1.resources
+C:\Users\02\Desktop\player\player\obj\x86\Debug\player.Form2.resources
+C:\Users\02\Desktop\player\player\obj\x86\Debug\player.Properties.Resources.resources
+C:\Users\02\Desktop\player\player\obj\x86\Debug\player.csproj.GenerateResource.Cache
+C:\Users\back\Desktop\새 폴더\player\obj\x86\Debug\player.exe
+C:\Users\back\Desktop\새 폴더\player\obj\x86\Debug\player.pdb
+C:\Users\back\Desktop\새 폴더\player\bin\Debug\player.exe
+C:\Users\back\Desktop\새 폴더\player\bin\Debug\player.pdb
+C:\Users\back\Desktop\새 폴더\player\obj\x86\Debug\player.csprojResolveAssemblyReference.cache
+C:\Users\back\Desktop\새 폴더\player\obj\x86\Debug\player.Form1.resources
+C:\Users\back\Desktop\새 폴더\player\obj\x86\Debug\player.Form2.resources
+C:\Users\back\Desktop\새 폴더\player\obj\x86\Debug\player.Properties.Resources.resources
+C:\Users\back\Desktop\새 폴더\player\obj\x86\Debug\player.csproj.GenerateResource.Cache
+C:\Users\YSW\Desktop\player\player\obj\x86\Debug\player.exe
+C:\Users\YSW\Desktop\player\player\obj\x86\Debug\player.pdb
+C:\Users\YSW\Desktop\player\player\bin\Debug\player.exe
+C:\Users\YSW\Desktop\player\player\bin\Debug\player.pdb
+C:\Users\YSW\Desktop\player\player\obj\x86\Debug\player.csprojResolveAssemblyReference.cache
+C:\Users\YSW\Desktop\player\player\obj\x86\Debug\player.Form1.resources
+C:\Users\YSW\Desktop\player\player\obj\x86\Debug\player.Form2.resources
+C:\Users\YSW\Desktop\player\player\obj\x86\Debug\player.Properties.Resources.resources
+C:\Users\YSW\Desktop\player\player\obj\x86\Debug\player.csproj.GenerateResource.Cache
+C:\Users\YSW\Desktop\수업\공모전(3-2)\player\player\obj\x86\Debug\player.exe
+C:\Users\YSW\Desktop\수업\공모전(3-2)\player\player\obj\x86\Debug\player.pdb
+C:\Users\YSW\Desktop\수업\공모전(3-2)\player\player\bin\Debug\player.exe
+C:\Users\YSW\Desktop\수업\공모전(3-2)\player\player\bin\Debug\player.pdb
+C:\Users\YSW\Desktop\수업\공모전(3-2)\player\player\obj\x86\Debug\player.csprojResolveAssemblyReference.cache
+C:\Users\YSW\Desktop\수업\공모전(3-2)\player\player\obj\x86\Debug\player.Form1.resources
+C:\Users\YSW\Desktop\수업\공모전(3-2)\player\player\obj\x86\Debug\player.Form2.resources
+C:\Users\YSW\Desktop\수업\공모전(3-2)\player\player\obj\x86\Debug\player.Properties.Resources.resources
+C:\Users\YSW\Desktop\수업\공모전(3-2)\player\player\obj\x86\Debug\player.csproj.GenerateResource.Cache
+C:\Users\YSW\Desktop\수업\공모전(3-2)\player\player\obj\x86\Debug\player.Form3.resources
+C:\Users\YSW\Desktop\수업\3-2 (공모전)\player\player\obj\x86\Debug\player.exe
+C:\Users\YSW\Desktop\수업\3-2 (공모전)\player\player\obj\x86\Debug\player.pdb
+C:\Users\YSW\Desktop\수업\3-2 (공모전)\player\player\bin\Debug\player.exe
+C:\Users\YSW\Desktop\수업\3-2 (공모전)\player\player\bin\Debug\player.pdb
+C:\Users\YSW\Desktop\수업\3-2 (공모전)\player\player\obj\x86\Debug\player.csprojResolveAssemblyReference.cache
+C:\Users\YSW\Desktop\수업\3-2 (공모전)\player\player\obj\x86\Debug\player.Form1.resources
+C:\Users\YSW\Desktop\수업\3-2 (공모전)\player\player\obj\x86\Debug\player.Form2.resources
+C:\Users\YSW\Desktop\수업\3-2 (공모전)\player\player\obj\x86\Debug\player.Form3.resources
+C:\Users\YSW\Desktop\수업\3-2 (공모전)\player\player\obj\x86\Debug\player.Properties.Resources.resources
+C:\Users\YSW\Desktop\수업\3-2 (공모전)\player\player\obj\x86\Debug\player.csproj.GenerateResource.Cache
